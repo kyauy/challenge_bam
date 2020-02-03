@@ -1,0 +1,7 @@
+{
+    "python.formatting.provider": "black",
+    "python.pythonPath": "/home/kevin/.cache/pypoetry/virtualenvs/challenge-bam-py3.7/bin/python",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true
+}

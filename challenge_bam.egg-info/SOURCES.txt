@@ -1,0 +1,9 @@
+README.rst
+setup.py
+challenge_bam/__init__.py
+challenge_bam/challenge_bam.py
+challenge_bam.egg-info/PKG-INFO
+challenge_bam.egg-info/SOURCES.txt
+challenge_bam.egg-info/dependency_links.txt
+challenge_bam.egg-info/requires.txt
+challenge_bam.egg-info/top_level.txt
