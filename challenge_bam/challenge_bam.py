@@ -5,7 +5,7 @@ import pysam as ps
 
 def aligned_ratio(bamfile):
     """
-    Return mismatch ratio in the overall bam
+    Return aligned ratio in the overall bam
     """
     total = 0
     aligned = 0
